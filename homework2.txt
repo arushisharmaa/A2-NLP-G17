@@ -1,4 +1,11 @@
 Problem 1 Analysis:
+Charge - Majority of neighbors allude to the sense of an indictment in court, with 
+some neighbors being related to paying money. Interestingly, no neighbors are related
+to the sense of charging an electronic device.
+Load - All neighbors are related to the sense of being heavy or carrying said heavy
+object.
+Show - Clustered extremely closely to a few neighbors related to the sense of a TV
+show, next closest neighbors are further away and related to the action of demonstration.
 
 
 Problem 2A Results:
