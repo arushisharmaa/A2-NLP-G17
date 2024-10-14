@@ -1,0 +1,27 @@
+animals/size:
+
+positive seed adjectives: ['large', 'big', 'huge']
+negative seed adjectives:['small', 'little', 'tiny']
+
+category words:
+['alligator', 'ant', 'bee', 'bird', 'butterfly', 'camel', 'cheetah',
+'chicken', 'chipmunk', 'crow', 'dog', 'dolphin', 'duck', 'elephant',
+'goldfish', 'hamster', 'hawk', 'horse', 'mammoth', 'monkey', 'moose',
+'mosquito', 'mouse', 'orca', 'penguin', 'pig', 'rhino', 'salmon',
+'seal', 'snake', 'swordfish', 'tiger', 'turtle', 'whale']
+
+----------
+clothing/wealth:
+
+positive seed adjectives: ['rich', 'wealthy', 'privileged']
+negative seed adjectives: ['poor', 'poverty', 'underprivileged']
+
+category words:
+['bathrobe', 'belt', 'bikini', 'blouse', 'boots', 'bra', 'bracelet',
+'coat', 'collar', 'cuff', 'dress', 'earrings', 'glasses', 'gloves',
+'gown', 'hat', 'jacket', 'jeans', 'knickers', 'loafers', 'necklace',
+'nightgown', 'overcoat', 'pajamas', 'panties', 'pants', 'pantyhose',
+'raincoat', 'robe', 'sandals', 'scarf', 'shawl', 'shirt', 'shorts',
+'skirt', 'sleeve', 'slippers', 'sneakers', 'socks', 'stockings',
+'sweater', 'sweatshirt', 'swimsuit', 'thong', 'tiara', 'tights',
+'trousers', 'tuxedo', 'vest', 'watch']
