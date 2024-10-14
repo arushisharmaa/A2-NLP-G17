@@ -1,0 +1,13 @@
+Problem 1 Analysis:
+
+
+Problem 2A Results:
+Correlation for animals/size: 0.657
+Correlation for clothing/wealth: 0.564
+
+Problem 2B Results:
+Correlation for animals/size: 0.612
+Correlation for clothing/wealth: 0.200
+
+
+Problem 3 Results:
