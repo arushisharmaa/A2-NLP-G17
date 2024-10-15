@@ -104,7 +104,8 @@ def get_replacements(sentence, target_word, top_k=20):
     mask_token_logits = logits[0, mask_token_index, :]
     top_k_tokens = torch.topk(mask_token_logits, top_k, dim=1).indices[0].tolist()
     
-    return [tokenizer.decode([token]) for token in top_k_tokens]
+    replacements = [tokenizer.decode([token]) for token in top_k_tokens]
+    return replacements
 
 with open('problem3_data.txt', 'r') as file:
     passages = file.readlines()
@@ -114,6 +115,8 @@ valid_passages = []
 for passage in passages:
     if 'charge' in passage.lower():
         replacements = get_replacements(passage, 'charge')
+        if ('charge' in replacements): 
+            replacements.remove('charge')
         all_replacements.append(replacements)
         valid_passages.append(passage)
 

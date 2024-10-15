@@ -1,11 +1,33 @@
 Problem 1 Analysis:
-Charge - Majority of neighbors allude to the sense of an indictment in court, with 
+Charge - The majority of neighbors allude to the sense of an indictment in court, with 
 some neighbors being related to paying money. Interestingly, no neighbors are related
-to the sense of charging an electronic device.
+to the sense of charging an electronic device. We also noticed that some neighbors like
+"responsible" and "denied" are plotted close to the middle of the graph. This is likely
+because these words could be used in the context of paying money or being indicted. One last 
+thing that we thought was interesting was that the neighbors referring to the indictment in 
+court were plotted in two fully separated clusters. We think it is because "charge" for one
+cluster can be used to describe the high level type of charge (ex. he was charged with
+x counts, a misdemeanor, or a felony) and the other cluster can be used to describe states/actions
+revolving around being charged (ex. He pleaded, he was guilty, he was convicted).
+
 Load - All neighbors are related to the sense of being heavy or carrying said heavy
-object.
-Show - Clustered extremely closely to a few neighbors related to the sense of a TV
-show, next closest neighbors are further away and related to the action of demonstration.
+object. No neighbors are related to the sense of loading a webpage or loading a gun.
+We noticed three "super-clusters" of neighbors, with the first super-cluster being related
+to lots of items/quantity, the second super-cluster being related to carrying things by vehicle
+or figuratively, and the last super-cluster being related to the sense of adding, removing, and
+moving an object. We thought it was interesting that the second super-cluster grouped smaller
+clusters of neighbors very close to each other. Loads that refer to carrying things by vehicle
+and loads that refer to carrying things figuratively are very close to each other. It makes
+sense why they would be grouped closely together because you would treat figurative/mental
+loads in a very similar way as you would treat physical loads.
+
+Show - The word show was clustered in five moderately separated clusters. One cluser 
+which has to do with the sense of a general TV show was clustered very densely. Another cluster
+which was much further away but closest with the first cluster (cluster 2 closest with cluster 1 
+not the other way around) had to do with TV show channels like ABC, CBS, NBC. The closest 
+cluster to cluster 1 was cluster 3 which had to do with the action of demonstration. Another
+cluster close to cluster 3 was cluster 4 which had to do with a type of TV show (live or reality).
+The last cluster was also pretty close to cluster 3 and had to do with someone being presented.
 
 
 Problem 2A Results:
