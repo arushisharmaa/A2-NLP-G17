@@ -17,4 +17,13 @@ Correlation for animals/size: 0.612
 Correlation for clothing/wealth: 0.200
 
 
-Problem 3 Results:
+Problem 3A Analysis:
+The clustering seems to be by sense of the word, with neighboring points being passages
+with the word "charge" used in similar contexts. Most passages follow this clustering
+pattern, but there is overlap, like two passages using "charge" as a legal term and
+as a financial term respectively being placed within the same cluster.
+
+Problem 3B Analysis:
+These clusters seem similar to the clusters in 3A, with neighboring passages possessing
+the same sense of the word "charge". Looking at the masked substitutes, they also
+seem similar for passages within the same cluster.
